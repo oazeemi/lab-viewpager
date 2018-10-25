@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity(), MovieListFragment.OnMovieSelectedListe
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
     }
 
     //respond to search button clicking
